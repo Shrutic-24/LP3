@@ -1,0 +1,14 @@
+//List 
+1. Installation of MetaMask and Create your own wallet using Metamask for crypto
+transactions.
+2. Write a smart contract on a test network, for Bank account of a customer for following
+operations:
+a. Deposit money
+b. Withdraw Money
+c. Show balance
+3. Write a program in solidity to create Student data. Use the following constructs:
+a. Structures
+b. Arrays
+c. Fallback
+Deploy this as smart contract on Ethereum and Observe the transaction fee and Gas
+values.
